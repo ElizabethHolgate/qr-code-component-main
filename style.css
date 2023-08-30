@@ -35,6 +35,7 @@ body {
 
 .qr-code {
     border-radius: 0.7rem;
+    width: 100%;
 }
 
 .text {
